@@ -1,8 +1,7 @@
 
 # Tea Shop
 
-This project is a website designed to be comfortable and user-friendly through effective  and user control.
-
+This project is a website for a tea shop designed to be comfortable and user-friendly through effective use of colors, event handlers, and convenient features.
 
 ## Demo
 
